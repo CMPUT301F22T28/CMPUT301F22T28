@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "SDJMQ"
+rootProject.name = "CMPUT301F22T28"
 include ':app'
