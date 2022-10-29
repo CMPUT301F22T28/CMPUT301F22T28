@@ -17,8 +17,7 @@ public class Recipe {
             int numServings,
             String category,
             String comments,
-            String photograph)
-    {
+            String photograph) {
         this.title = title;
         this.prepTime = prepTime;
         this.numServings = numServings;
